@@ -1,1 +1,1 @@
-# GoogleMapsTravel
+# Vanilla-Search-App
